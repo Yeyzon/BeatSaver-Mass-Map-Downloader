@@ -2,7 +2,7 @@ import requests, zipfile, io
 from pathlib import Path
 
 # looks something like this "D:\SteamLibrary\steamapps\common\Beat Saber\Beat Saber_Data\CustomLevels\"
-customLevelPath = "D:\SteamLibrary\steamapps\common\Beat Saber\Beat Saber_Data\CustomLevels\"
+customLevelPath = ""
 
 headers = {
     'authority': 'beatsaver.com',
